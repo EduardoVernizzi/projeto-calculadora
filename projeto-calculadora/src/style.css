@@ -1,0 +1,18 @@
+*{
+  font-family: 'RobotoMono', Arial, Helvetica, sans-serif;
+}
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  background: #252525;
+}
+
+.title{
+  font-size: 3rem;
+  color: ;
+}
